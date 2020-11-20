@@ -1,5 +1,18 @@
 # RESTAURANT-REVENUE-PREDICTION
 TFI has provided a dataset with 137 restaurants in the training set, and a test set of 100000 restaurants. The data columns include the open date, location, city type, and three categories of obfuscated data: Demographic data, Real estate data, and Commercial data. The revenue column indicates a (transformed) revenue of the restaurant in a given year and is the target of predictive analysis.
+# PYTHON LIBRARIES USED:
+1. PANDAS
+2. NUMPY
+3. SEABORN
+4. SKLEARN.PREPROCESSING
+5. SKLEARN.METRICS
+6. SKLEARN.MODEL_SELECTION
+7. SKLEARN.LINEAR_MODEL
+8. XGBOOST
+9. LIGHTGBM
+10. MATH
+11. eli5
+
 # This notebook contains the following:
 1. FEATURE ENGINEERING
 2. PREDICTIVE ANALYSIS
